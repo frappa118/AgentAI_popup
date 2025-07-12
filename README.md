@@ -12,3 +12,7 @@ l'esercizio era quello di creare un agente AI e poi creare un tool personalizzat
 4) Stats, ti mostra quante domande e risposte vi siete scambiati
 
 Queste sono le principali abilità dell'agente.
+
+## Funzioni Tool
+
+Con l'ausilio della libreria PyQt5, si ha la possibilità di creare delle finestre pop-up che possono essere personalizzate e randomizzate, con frasi, posizione e dimensione.
